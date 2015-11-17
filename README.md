@@ -1,2 +1,4 @@
-# sitkamaraudersmap.github.io
-Sitka version of the Marauder's Map
+# The Marauder's Map
+Sitka version
+
+http://themaraudersmap.xyz
